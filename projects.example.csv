@@ -1,0 +1,4 @@
+project_name,repo_url,branch
+Payment Platform,https://github.com/company/payment-api.git,
+Payment Platform,https://github.com/company/payment-ui.git,develop
+Notification Service,https://github.com/company/notification-api.git,release/2.0

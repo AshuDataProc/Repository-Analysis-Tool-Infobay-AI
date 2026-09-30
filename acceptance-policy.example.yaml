@@ -1,0 +1,14 @@
+repository_rules:
+  private_required: true
+  license_absent_required: true
+  readme_required: true
+  readme_minimum_characters: 200
+  minimum_eligible_source_files: 20
+  minimum_human_contributors: 2
+  git_history_intact_required: true
+
+project_rules:
+  minimum_merged_prs: 100
+  minimum_commits_same_repository: 100
+  minimum_eligible_source_loc: 5000
+  minimum_development_span_months: 6
